@@ -1,0 +1,38 @@
+.contact-list {
+    list-style-type: none;
+    font-size: 16pt;
+}
+
+.mail {
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 500px;
+    background:
+        #33c4ec;
+    border: 1px soild silver;
+}
+
+.mail h2 {
+    margin-left: 40px;
+}
+
+input {
+    font-size: 15pt;
+}
+
+input:focus,
+textarea:focus {
+    background-color:
+        lightyellow;
+}
+
+input submit {
+    font-size: 15pt;
+}
+
+.rq {
+    color:
+        #e81f1f;
+    font-size: 15pt;
+}

@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: random50000.txt took the longest, 7.6 seconds approximately
+
+sort2 uses: Merge Sort
+
+How do you know?: random50000.txt was the quickest, 0.47 seconds approximately
+
+sort3 uses: Selection Sort
+
+How do you know?: random50000.txt took the 2nd longest, 3.23 seconds approximately
+cd
